@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/mr_ridhor001" target="blank"><img src="https://img.shields.io/twitter/follow/mr_ridhor001?logo=twitter&style=for-the-badge" alt="mr_ridhor001" /></a> </p>
 
-- 🔭 I’m currently working on **Backing app**
-
 - 💬 Ask me about **reactjs,mongodb,reactnative,expresjs,python**
 
 - 📫 How to reach me **surajudeen.ridwan.a@gmail.com**
