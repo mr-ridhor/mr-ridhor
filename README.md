@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Surajudeen Ridwan Adebayo</h1>
 <h3 align="center">A passionate Web and mobile developer</h3>
+<p>
+Certainly! Here's a brief version:
+
+🚀Web Developer
+
+Experienced web/mobile developer skilled in building dynamic web applications with MongoDB,MySql, Express.js, React,python, and Node.js. Proven ability to optimize and scale systems for optimal user experiences. A collaborative team player with strong problem-solving skills. Passionate about continuous learning and adopting new technologies. Let's connect and explore collaboration opportunities!</p>
 
 <p align="left"> <a href="https://twitter.com/mr_ridhor001" target="blank"><img src="https://img.shields.io/twitter/follow/mr_ridhor001?logo=twitter&style=for-the-badge" alt="mr_ridhor001" /></a> </p>
 
