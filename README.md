@@ -9,7 +9,7 @@ Experienced web/mobile developer skilled in building dynamic web applications wi
 
 <p align="left"> <a href="https://twitter.com/mr_ridhor001" target="blank"><img src="https://img.shields.io/twitter/follow/mr_ridhor001?logo=twitter&style=for-the-badge" alt="mr_ridhor001" /></a> </p>
 
-- 💬 Ask me about **Reactjs,react Native, Vuejs,Nextjs,Mongodb,MySql,Postgresql,PHP,Expresjs,Python**
+- 💬 Ask me about **Reactjs,React Native, Vuejs,Nextjs,Mongodb,MySql,Postgresql,PHP,Expresjs,Python**
 
 - 📫 How to reach me **surajudeen.ridwan.a@gmail.com**
 
